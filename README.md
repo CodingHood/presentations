@@ -1,4 +1,4 @@
-# presentations
+# Presentations
 
 - PDFs and source files used for presentations.
 - The research group includes Adam Huang, Cole Sniffer and me.
